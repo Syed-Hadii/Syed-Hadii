@@ -67,7 +67,7 @@ Explore more of my projects in my [Portfolio](https://a-hadi-portfolio.vercel.ap
 
 ## 📞 Connect with Me  
 
-📩 **Email:** syedabdulhadi@gmail.com  
+📩 **Email:** syedabdulhadi122@gmail.com  
 💼 **LinkedIn:** [Syed A. Hadi](https://www.linkedin.com/in/syed-a-hadi)   
 
 Let's collaborate on exciting projects! 🚀  
