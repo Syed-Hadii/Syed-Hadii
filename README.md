@@ -9,9 +9,15 @@
 ---
 
 ## 🚀 About Me  
-🔹 I'm a dedicated MERN Stack Developer, passionate about building scalable and efficient web applications.  
-🔹 I love working on challenging projects and continuously improving my skills.  
-🔹 My goal is to create user-friendly, high-performance applications using modern technologies.  
+🔹 Building Digital Dreams One Line Of Code At A Time!
+   I'm a skilled developer specializing in Nextjs, React, Nodejs, and MongoDB. I build dynamic, responsive, and user-friendly web apps tailored to your needs. My expertise includes Tailwind CSS, Bootstrap, MySQL, 
+   Expressjs, Framer Motion, and more.
+
+🔹 Why choose me?
+   ✔ Clean, maintainable code
+   ✔ Responsive design
+   ✔ On-time delivery
+🔹Let’s bring your ideas to life with high-quality solutions! Feel free to reach out to discuss your project.
 
 📌 **Portfolio:** [a-hadi-portfolio.vercel.app](https://a-hadi-portfolio.vercel.app/)  
 
@@ -20,11 +26,18 @@
 ## 💻 Tech Stack  
 
 ### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+<!-- Tech Stack Badges -->
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
@@ -33,10 +46,14 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat)  
 
 ### **Tools & Other Technologies**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+<!-- Tools & Deployment Badges -->
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel%2FShared%20Hosting-FF6C2C?style=flat&logo=cpanel&logoColor=white)
+ 
 
 ---
 
@@ -45,6 +62,7 @@
 🔹 **[Foodiee Baba](https://a-hadi-portfolio.vercel.app/)** - A food delivery web app built with MERN Stack and Tailwind CSS.  
 🔹 **[New Kashmir Hazara](https://a-hadi-portfolio.vercel.app/)** - A web based management softare built with MERN Stack and Tailwind CSS.  
 🔹 **[Land Management System](https://a-hadi-portfolio.vercel.app/)** - A web based Land management softare built with MERN Stack and Tailwind CSS.  
+🔹 **[Goldstar](https://a-hadi-portfolio.vercel.app/)** - A professional company website for medical devices and services built with MERN Stack and BootStrap CSS.
 🔹 **[Book Store App](https://a-hadi-portfolio.vercel.app/)** - A book store app built with MERN Stack and Tailwind CSS.  
 🔹 **[To-Do List](https://a-hadi-portfolio.vercel.app/)** - A simple and efficient task management application.  
 🔹 **[Netflix CLone, Amazon Clone, Ali Express CLone, Password Generator, Clock, Calculator, Stone Paper Scissor, Tic tac toe](https://a-hadi-portfolio.vercel.app/)** -some other mini projects with different technologies.  
@@ -67,8 +85,12 @@ Explore more of my projects in my [Portfolio](https://a-hadi-portfolio.vercel.ap
 
 ## 📞 Connect with Me  
 
-📩 **Email:** syedabdulhadi122@gmail.com  
-💼 **LinkedIn:** [Syed A. Hadi](https://www.linkedin.com/in/syed-a-hadi)   
+📩 **Email:** syedabdulhadiii36@gmail.com  
+💼 **LinkedIn:** [Syed A. Hadi](https://www.linkedin.com/in/syed-a-hadi)  
+📞 **Phone:** +92 3371257136  
+🛠️ **Fiverr Gig:** [Check My Fiverr](https://www.fiverr.com/s/8zlWAVp)  
+💻 **Freelancer Profile:** [Visit My Profile](https://www.freelancer.com/u/SyedAbdulHadi0?frm=SyedAbdulHadi0&sb=t)
+
 
 Let's collaborate on exciting projects! 🚀  
 
