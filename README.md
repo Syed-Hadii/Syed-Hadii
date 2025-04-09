@@ -13,11 +13,13 @@
    I'm a skilled developer specializing in Nextjs, React, Nodejs, and MongoDB. I build dynamic, responsive, and user-friendly web apps tailored to your needs. My expertise includes Tailwind CSS, Bootstrap, MySQL, 
    Expressjs, Framer Motion, and more.
 <br/>
+
 🔹 Why choose me?
    ✔ Clean, maintainable code
    ✔ Responsive design
    ✔ On-time delivery
    <br/>
+   
 🔹Let’s bring your ideas to life with high-quality solutions! Feel free to reach out to discuss your project. 
 <br/>
 
@@ -64,7 +66,7 @@
 🔹 **[Foodiee Baba](https://a-hadi-portfolio.vercel.app/)** - A food delivery web app built with MERN Stack and Tailwind CSS.  
 🔹 **[New Kashmir Hazara](https://a-hadi-portfolio.vercel.app/)** - A web based management softare built with MERN Stack and Tailwind CSS.  
 🔹 **[Land Management System](https://a-hadi-portfolio.vercel.app/)** - A web based Land management softare built with MERN Stack and Tailwind CSS.  
-🔹 **[Goldstar](https://a-hadi-portfolio.vercel.app/)** - A professional company website for medical devices and services built with MERN Stack and BootStrap CSS.
+🔹 **[Goldstar](https://a-hadi-portfolio.vercel.app/)** - A professional company website for medical devices and services built with MERN Stack and BootStrap CSS.<br/>
 🔹 **[Book Store App](https://a-hadi-portfolio.vercel.app/)** - A book store app built with MERN Stack and Tailwind CSS.  
 🔹 **[To-Do List](https://a-hadi-portfolio.vercel.app/)** - A simple and efficient task management application.  
 🔹 **[Netflix CLone, Amazon Clone, Ali Express CLone, Password Generator, Clock, Calculator, Stone Paper Scissor, Tic tac toe](https://a-hadi-portfolio.vercel.app/)** -some other mini projects with different technologies.  
