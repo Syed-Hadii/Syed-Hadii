@@ -9,19 +9,19 @@
 ---
 
 ## 🚀 About Me  
-🔹 Building Digital Dreams One Line Of Code At A Time!
-   I'm a skilled developer specializing in Nextjs, React, Nodejs, and MongoDB. I build dynamic, responsive, and user-friendly web apps tailored to your needs. My expertise includes Tailwind CSS, Bootstrap, MySQL, 
-   Expressjs, Framer Motion, and more.
-<br/>
-
-🔹 Why choose me?
-   ✔ Clean, maintainable code
-   ✔ Responsive design
-   ✔ On-time delivery
+🔹  Building Digital Dreams One Line Of Code At A Time!
+    I'm a skilled developer specializing in Nextjs, React, Nodejs, and MongoDB. I build dynamic, responsive, and user-friendly web apps tailored to your needs. My expertise includes Tailwind CSS, Bootstrap, 
+    MySQL,Expressjs, Framer Motion, and more.
    <br/>
+
+🔹  Why choose me?
+    ✔ Clean, maintainable code
+    ✔ Responsive design
+    ✔ On-time delivery
+    <br/>
    
-🔹Let’s bring your ideas to life with high-quality solutions! Feel free to reach out to discuss your project. 
-<br/>
+🔹  Let’s bring your ideas to life with high-quality solutions! Feel free to reach out to discuss your project. 
+    <br/>
 
 📌 **Portfolio:** [a-hadi-portfolio.vercel.app](https://a-hadi-portfolio.vercel.app/)  
 
